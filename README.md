@@ -23,45 +23,7 @@
 
 ## About 
 
-
-This is the long desc
-
-* [x] *list closed tracking-issues or `docs` files here*
-* [ ] Do you have any [ideas](https://github.com/figuren-theater/debug-secrets-inheritance/issues/new) ?
-
-## Background & Motivation
-
-...
-
-## Install
-
-1. Install via command line
-    ```sh
-    composer require figuren-theater/debug-secrets-inheritance
-    ```
-
-## Usage
-
-### API
-
-```php
-Figuren_Theater::API\get_...()
-```
-
-### Plugins included
-
-This package contains the following plugins. 
-Thoose are completely managed by code and lack of their typical UI.
-
-* ...
-
-
-### What does this package do in addition?
-
-Accompaniying the core functionality of the mentioned plugins, theese **best practices** are included with this package.
-
-* ...
-
+....
 
 ## Built with & uses
 
