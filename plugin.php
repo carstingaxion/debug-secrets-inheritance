@@ -1,15 +1,15 @@
 <?php
 /**
- * Register the project_urlname module to altis
+ * Register the debug-secrets-inheritance module to altis
  *
- * @package           figuren-theater/project_urlname
+ * @package           figuren-theater/debug-secrets-inheritance
  * @author            figuren.theater
  * @copyright         2023 figuren.theater
  * @license           GPL-3.0+
  *
  * @wordpress-plugin
- * Plugin Name:       figuren.theater | project_name
- * Plugin URI:        https://github.com/figuren-theater/project_urlname
+ * Plugin Name:       figuren.theater | debug_secrets_inheritance
+ * Plugin URI:        https://github.com/figuren-theater/debug-secrets-inheritance
  * Description:       ... like the figuren.theater WordPress Multisite network.
  * Version:           0.1.0-alpha
  * Requires at least: 6.0
@@ -20,10 +20,10 @@
  * Domain Path:       /languages
  * License:           GPL-3.0+
  * License URI:       http://www.gnu.org/licenses/gpl-3.0.txt
- * Update URI:        https://github.com/figuren-theater/project_urlname
+ * Update URI:        https://github.com/figuren-theater/debug-secrets-inheritance
  */
 
-namespace Figuren_Theater\project_name;
+namespace Figuren_Theater\debug_secrets_inheritance;
 
 const DIRECTORY = __DIR__;
 

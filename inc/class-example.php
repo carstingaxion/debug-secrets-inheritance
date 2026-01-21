@@ -2,15 +2,15 @@
 /**
  * Figuren_Theater ...
  *
- * @package figuren-theater/project_urlname
+ * @package figuren-theater/debug-secrets-inheritance
  */
 
-namespace Figuren_Theater\project_name;
+namespace Figuren_Theater\debug_secrets_inheritance;
 
 /**
  * Figuren_Theater ...
  *
- * @package figuren-theater/project_urlname
+ * @package figuren-theater/debug-secrets-inheritance
  */
 class Example {
 

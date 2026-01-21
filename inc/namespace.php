@@ -1,11 +1,11 @@
 <?php
 /**
- * Figuren_Theater project_name.
+ * Figuren_Theater debug_secrets_inheritance.
  *
- * @package figuren-theater/project_urlname
+ * @package figuren-theater/debug-secrets-inheritance
  */
 
-namespace Figuren_Theater\project_name;
+namespace Figuren_Theater\debug_secrets_inheritance;
 
 use Altis;
 
@@ -24,9 +24,9 @@ function register() :void {
 	];
 
 	Altis\register_module(
-		'project_urlname',
+		'debug-secrets-inheritance',
 		DIRECTORY,
-		'project_name',
+		'debug_secrets_inheritance',
 		$options,
 		__NAMESPACE__ . '\\bootstrap'
 	);
